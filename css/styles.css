@@ -529,7 +529,7 @@ a {
   visibility: visible;
   pointer-events: auto;
 }
-.modal-container {
+.modal-container {padding: 72px 24px 24px 24px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -806,10 +806,12 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #ffffff;
+margin-left:80px;
 }
 .user-subscribe-form{
 display:flex;
 gap: 24px;
+margin-left:80px;
 }
 .subscribe-label{
 gap:24px;
