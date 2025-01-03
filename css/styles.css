@@ -709,14 +709,7 @@ fill:#f4f4fd;
 }
 .checkbox-icon {
 cursor: pointer;
-display: block;
-fill:none;
-width: 16px;
-height: 16px;
-border-radius: 2px;
-border: 1px solid rgba(46, 47, 66, 0.4);
 }
-
 .user-privacy{
 font-weight: 400;
 font-size: 12px;
